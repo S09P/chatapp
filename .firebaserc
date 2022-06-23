@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "superchat-c1506",
+    "staging": "superchat-c1506"
+  },
+  "targets": {}
+}
